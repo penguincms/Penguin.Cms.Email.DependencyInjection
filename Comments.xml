@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Cms.Email.DependencyInjection.Local</name>
+        <name>Penguin.Cms.Email.DependencyInjection</name>
     </assembly>
     <members>
     </members>
