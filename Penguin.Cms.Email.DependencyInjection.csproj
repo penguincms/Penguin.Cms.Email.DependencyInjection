@@ -7,8 +7,8 @@
     <Description>Not Available</Description>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.0-T9LXGUJ" />
-    <PackageReference Include="Penguin.DependencyInjection" Version="4.1.10-T9LXGUJ" />
-    <PackageReference Include="Penguin.Email.Templating" Version="1.0.0-T9LXGUJ" />
+    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.1-T9M1HHH" />
+    <PackageReference Include="Penguin.Email.Templating" Version="1.0.1-T9M1HHH" />
+    <PackageReference Include="Penguin.DependencyInjection" Version="4.1.11-T9M1K2Y" />
   </ItemGroup>
 </Project>
