@@ -5,10 +5,12 @@
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Cms.Email.DependencyInjection</PackageProjectUrl>
     <Version>1.0.0</Version>
     <Description>Not Available</Description>
+    <AssemblyName>Penguin.Cms.Email.DependencyInjection</AssemblyName>
+    <RootNamespace>Penguin.Cms.Email.DependencyInjection</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.1-T9M1HHH" />
-    <PackageReference Include="Penguin.Email.Templating" Version="1.0.1-T9M1HHH" />
-    <PackageReference Include="Penguin.DependencyInjection" Version="4.1.11-T9M1K2Y" />
+    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.1-T9M2XAX" />
+    <PackageReference Include="Penguin.Email.Templating" Version="1.0.1-T9M2XAX" />
+    <PackageReference Include="Penguin.DependencyInjection" Version="4.1.11-T9M2XAX" />
   </ItemGroup>
 </Project>
