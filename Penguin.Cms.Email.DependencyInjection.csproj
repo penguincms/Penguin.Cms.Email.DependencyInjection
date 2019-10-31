@@ -10,7 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Penguin.Email.Templating" Version="1.0.1-T9M3AAF" />
-    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.1-T9M4A3K" />
     <PackageReference Include="Penguin.DependencyInjection" Version="4.1.11-T9M4Q23" />
+    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="1.0.1-T9M63DZ" />
   </ItemGroup>
 </Project>
