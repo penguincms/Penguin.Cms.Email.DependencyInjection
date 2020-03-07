@@ -2,11 +2,9 @@
 using Penguin.Cms.Email.Templating.Repositories;
 using Penguin.DependencyInjection.Abstractions.Enums;
 using Penguin.DependencyInjection.Abstractions.Interfaces;
-using Penguin.DependencyInjection.ServiceProviders;
 using Penguin.Email.Abstractions.Interfaces;
 using Penguin.Email.Templating;
 using Penguin.Email.Templating.Abstractions.Interfaces;
-using System;
 
 namespace Penguin.Cms.Email.DependencyInjection
 {
