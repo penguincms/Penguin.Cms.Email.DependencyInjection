@@ -12,6 +12,11 @@ namespace Penguin.Cms.Email.DependencyInjection
     {
         public void RegisterDependencies(IServiceRegister serviceRegister)
         {
+            if (serviceRegister is null)
+            {
+                throw new System.ArgumentNullException(nameof(serviceRegister));
+            }
+
             serviceRegister.Register(typeof(ISendTemplates), typeof(EmailTemplateRepository), ServiceLifetime.Scoped);
             serviceRegister.Register(typeof(IQueueAndSendMail), typeof(EmailService), ServiceLifetime.Scoped);
             serviceRegister.Register(typeof(IQueueAndSendMail), typeof(EmailService), ServiceLifetime.Scoped);
