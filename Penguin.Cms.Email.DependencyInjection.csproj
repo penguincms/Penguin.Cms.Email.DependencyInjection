@@ -11,7 +11,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Penguin.Email.Templating" Version="5.0.6-TAHULSY" />
-    <PackageReference Include="Penguin.DependencyInjection" Version="5.0.6-TAJHTXV" />
-    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="5.0.6-TAJHTXV" />
+    <PackageReference Include="Penguin.DependencyInjection" Version="5.0.6-TAKDH3F" />
+    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="5.0.6-TAKDH3F" />
   </ItemGroup>
 </Project>
