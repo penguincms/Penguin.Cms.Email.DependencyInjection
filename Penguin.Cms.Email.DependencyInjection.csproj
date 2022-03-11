@@ -10,8 +10,8 @@
     <DocumentationFile>Penguin.Cms.Email.DependencyInjection.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Email.Templating" Version="5.0.6-TAHULSY" />
-    <PackageReference Include="Penguin.DependencyInjection" Version="5.0.6-TAKOD19" />
-    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="5.0.6-TAKOD19" />
+    <PackageReference Include="Penguin.Email.Templating" Version="5.0.6-TATDFB4" />
+    <PackageReference Include="Penguin.DependencyInjection" Version="5.0.6-TATDFB4" />
+    <PackageReference Include="Penguin.Cms.Email.Templating.Repositories" Version="5.0.6-TATDFB4" />
   </ItemGroup>
 </Project>
