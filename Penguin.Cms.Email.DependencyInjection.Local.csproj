@@ -21,7 +21,6 @@
     <ProjectReference Include="..\Penguin.Cms.Repositories\Penguin.Cms.Repositories.Local.csproj" />
     <ProjectReference Include="..\Penguin.Configuration.Abstractions\Penguin.Configuration.Abstractions.Local.csproj" />
     <ProjectReference Include="..\Penguin.Debugging\Penguin.Debugging.Local.csproj" />
-    <ProjectReference Include="..\Penguin.DependencyInjection\Penguin.DependencyInjection.Local.csproj" />
     <ProjectReference Include="..\Penguin.DependencyInjection.Abstractions\Penguin.DependencyInjection.Abstractions.Local.csproj" />
     <ProjectReference Include="..\Penguin.Email\Penguin.Email.Local.csproj" />
     <ProjectReference Include="..\Penguin.Email.Abstractions\Penguin.Email.Abstractions.Local.csproj" />
